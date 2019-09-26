@@ -2,3 +2,5 @@ node_modules/
 *.log
 bin/
 after_prepare.js
+.DS_Store
+lib/.DS_Store
